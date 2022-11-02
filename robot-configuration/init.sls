@@ -3,4 +3,4 @@
     - contents: |
         This file represents the configuration of a robot
         Operating System: {{ grains.os }}
-        Installed Robot Version: 1.0.0
+        Installed Robot Version: 1.0.1
